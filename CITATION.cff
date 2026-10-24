@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "AutumnBench execution and scoring semantics"
+message: "Please cite this independent research artifact and its upstream sources."
+authors:
+  - family-names: Wu
+    given-names: Zhijing
+date-released: 2026-10-24
+url: "https://github.com/ZhijingWu/autumnbench-scoring-semantics-audit"

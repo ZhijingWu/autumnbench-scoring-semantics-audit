@@ -1,0 +1,414 @@
+{
+  "policy": "Original archives are preserved. Public path redactions and gzip packing change file hashes; original hashes identify the retained private records. Published code portability changes are documented.",
+  "files": [
+    {
+      "source_id": "autumn/execution_evidence/adapters/generated/__init__.py",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "public_path": "execution_evidence/adapters/generated/__init__.py",
+      "public_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "transformed": false,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/execution_evidence/adapters/generated/mara/__init__.py",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "public_path": "execution_evidence/adapters/generated/mara/__init__.py",
+      "public_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "transformed": false,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/execution_evidence/adapters/generated/mara/mara_environment_pb2.py",
+      "source_sha256": "174193f2cd2cd54a8b8c429780894cb6b6e616a8258e3f96765373af16ed07b1",
+      "public_path": "execution_evidence/adapters/generated/mara/mara_environment_pb2.py",
+      "public_sha256": "174193f2cd2cd54a8b8c429780894cb6b6e616a8258e3f96765373af16ed07b1",
+      "transformed": false,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/execution_evidence/adapters/generated/mara/mara_environment_pb2_grpc.py",
+      "source_sha256": "3564e171f409309d66e085eaca07011eb0c92c6e1f8a8bcce75a8b45c9f4ce1b",
+      "public_path": "execution_evidence/adapters/generated/mara/mara_environment_pb2_grpc.py",
+      "public_sha256": "3564e171f409309d66e085eaca07011eb0c92c6e1f8a8bcce75a8b45c9f4ce1b",
+      "transformed": false,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/execution_evidence/adapters/generated/mara/mara_environment_service_pb2.py",
+      "source_sha256": "2549b1cc8b47b808d246862fb4964d1b44f44ae9031cf53f4e09edabc0a50d81",
+      "public_path": "execution_evidence/adapters/generated/mara/mara_environment_service_pb2.py",
+      "public_sha256": "2549b1cc8b47b808d246862fb4964d1b44f44ae9031cf53f4e09edabc0a50d81",
+      "transformed": false,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/execution_evidence/adapters/generated/mara/mara_environment_service_pb2_grpc.py",
+      "source_sha256": "1106cccdcf7c49cc956cb9d1cd3bab982eaf973a8dcce337a7aacb567aa0504e",
+      "public_path": "execution_evidence/adapters/generated/mara/mara_environment_service_pb2_grpc.py",
+      "public_sha256": "1106cccdcf7c49cc956cb9d1cd3bab982eaf973a8dcce337a7aacb567aa0504e",
+      "transformed": false,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/execution_evidence/manifests/execution_budget.json",
+      "source_sha256": "382e53f2c79601042ed0d494dadc736a08f796cfd3c0f8cc0997a58032d5e3c0",
+      "public_path": "execution_evidence/manifests/execution_budget.json.gz",
+      "public_sha256": "ee4c847da785d2f2484dbec4e8c131b2143f173153e835f643f918309d631792",
+      "transformed": true,
+      "compression": "gzip"
+    },
+    {
+      "source_id": "autumn/execution_evidence/manifests/original_remote_preservation.json",
+      "source_sha256": "26a9019cd1da53186f2f6a1b5cf49e071b7ef6c66db8afe1ef8c82e28558dcf3",
+      "public_path": "execution_evidence/manifests/original_remote_preservation.json.gz",
+      "public_sha256": "51c41d9ba20e9e4146bb1ee6d54fdf5a7af16a020301a32b93e408ec38ef2b05",
+      "transformed": true,
+      "compression": "gzip"
+    },
+    {
+      "source_id": "autumn/execution_evidence/manifests/PREREGISTRATION.json",
+      "source_sha256": "85708fd9d052627923400f2f5599d9eddfdaf1f70423b68cf7dbd303f7d9a6db",
+      "public_path": "execution_evidence/manifests/PREREGISTRATION.json.gz",
+      "public_sha256": "92d7c59fa07d3d886fb67b9435fa7804fc089f33bb6750fc355074c5e4873e08",
+      "transformed": true,
+      "compression": "gzip"
+    },
+    {
+      "source_id": "autumn/execution_evidence/manifests/setup_manifest.json",
+      "source_sha256": "cbf15ac1aba42409535e60a5c34851ed45507a9efd8468c79de334ab099f9d27",
+      "public_path": "execution_evidence/manifests/setup_manifest.json.gz",
+      "public_sha256": "2a9a539979636cdd598ff5b922a9f8b194ef6aa43f993c9f0877aefb53f1b5d9",
+      "transformed": true,
+      "compression": "gzip"
+    },
+    {
+      "source_id": "autumn/execution_evidence/manifests/SUPPORT_EXTENSION_PLAN.json",
+      "source_sha256": "4b4fe0e67139bea3048592a5364880049edf4e5b28eba19f5dbc4fb42fccf671",
+      "public_path": "execution_evidence/manifests/SUPPORT_EXTENSION_PLAN.json.gz",
+      "public_sha256": "db4f0bc8ca9e5dab5255c70a8fa97f7ce9190a6c6625744f946b911e715973d9",
+      "transformed": true,
+      "compression": "gzip"
+    },
+    {
+      "source_id": "autumn/execution_evidence/raw/actions_extension.jsonl",
+      "source_sha256": "ad24c5a47c666afcf2c88a9bf1ad0d9dbfd5a4c1ac73f9f1ba55158c3b791d1d",
+      "public_path": "execution_evidence/raw/actions_extension.jsonl.gz",
+      "public_sha256": "b892df7bff95ebcace1c0c82cefc4e908427ae6bad19764b7b42c394acc895bf",
+      "transformed": true,
+      "compression": "gzip"
+    },
+    {
+      "source_id": "autumn/execution_evidence/raw/actions_primary.jsonl",
+      "source_sha256": "0b92efba185ce5a653d134412012b19f5118428e136372b0c22bff62407dfc63",
+      "public_path": "execution_evidence/raw/actions_primary.jsonl.gz",
+      "public_sha256": "3fa27cab1fd2a0950e055b30807e8d37227700b9326a9ed7e4d6d1d9af84e67a",
+      "transformed": true,
+      "compression": "gzip"
+    },
+    {
+      "source_id": "autumn/execution_evidence/raw/actions_support.jsonl",
+      "source_sha256": "12aa60fbd7ddc370f5c37f63161dd435dae583f655fdf8019e1264510952d1a8",
+      "public_path": "execution_evidence/raw/actions_support.jsonl.gz",
+      "public_sha256": "a991d7b2590a515d73cbcfa8e64f0aaa436e16df70eff3e3d0ac95da99719028",
+      "transformed": true,
+      "compression": "gzip"
+    },
+    {
+      "source_id": "autumn/execution_evidence/raw/native_calls_extension.jsonl",
+      "source_sha256": "af25afb3571ff002a4527c9dac209bec4bf6fe0ea0ca225e16f6fb74c7e91369",
+      "public_path": "execution_evidence/raw/native_calls_extension.jsonl.gz",
+      "public_sha256": "4ecf522e2b80cef3080f91d92ad7e46d7d3d593f09e2baa550d4e35c364553ed",
+      "transformed": true,
+      "compression": "gzip"
+    },
+    {
+      "source_id": "autumn/execution_evidence/raw/native_calls_primary.jsonl",
+      "source_sha256": "357804cf9371d55f4712d346469ea3a6a7a930f67c213e58d618b905280302fc",
+      "public_path": "execution_evidence/raw/native_calls_primary.jsonl.gz",
+      "public_sha256": "621fceafa075dc9151597f6775b5bd6537c233544ddda09ed2d7bb0dce544c6e",
+      "transformed": true,
+      "compression": "gzip"
+    },
+    {
+      "source_id": "autumn/execution_evidence/raw/native_calls_support.jsonl",
+      "source_sha256": "05e29cce852240396e33ff772dc7e6a65e6b7967062caed28bef481ab8cf8577",
+      "public_path": "execution_evidence/raw/native_calls_support.jsonl.gz",
+      "public_sha256": "e4ab01d4bc4cdfaf5c0626fcf9073c6b212ee6d5db6c10246c31f811353a8855",
+      "transformed": true,
+      "compression": "gzip"
+    },
+    {
+      "source_id": "autumn/execution_evidence/reference_sources/sources/autumnbench_public/answers/27VWC_change_detection.json",
+      "source_sha256": "75294161dc81d36ad7a7e5963a1a01510a63530a05de08049615a6ac185d85f9",
+      "public_path": "references/benchmark/27VWC_change_detection.json.gz",
+      "public_sha256": "2e13ecb97aef44e4f44d1c96e0b3a2824df67eb0bd6deed55e2309fb9344bf06",
+      "transformed": true,
+      "compression": "gzip"
+    },
+    {
+      "source_id": "autumn/execution_evidence/reference_sources/sources/autumnbench_public/answers/7WWW9_change_detection.json",
+      "source_sha256": "ec9974deb1fab2c13dd900360b460e58d84e486cf07bf7881cf9fba9464ff616",
+      "public_path": "references/benchmark/7WWW9_change_detection.json.gz",
+      "public_sha256": "63cf0bb3b2329048743cb953628ba6870c1e81b1262f6df2e8e5f3ff581f24bc",
+      "transformed": true,
+      "compression": "gzip"
+    },
+    {
+      "source_id": "autumn/execution_evidence/reference_sources/sources/autumnbench_public/color_dict.yaml",
+      "source_sha256": "a76980f6f8507f85595d78a0b62c7541ea6a373d08fc3c66775f19cbff22f710",
+      "public_path": "references/benchmark/color_dict.yaml",
+      "public_sha256": "a76980f6f8507f85595d78a0b62c7541ea6a373d08fc3c66775f19cbff22f710",
+      "transformed": false,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/execution_evidence/reference_sources/sources/autumnbench_public/programs/27VWC.sexp",
+      "source_sha256": "8501254fcb02af6f04c0e84d21dd002048e1bd182b3c57a6b1bbe668bbd48200",
+      "public_path": "references/benchmark/27VWC.sexp",
+      "public_sha256": "8501254fcb02af6f04c0e84d21dd002048e1bd182b3c57a6b1bbe668bbd48200",
+      "transformed": false,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/execution_evidence/reference_sources/sources/autumnbench_public/programs/27VWC_change_detection_wrong_program.sexp",
+      "source_sha256": "a1d0424ed33bf6ba763f067c70de1e3e59e5ef0b8a82f4587d73bcb765d67a6b",
+      "public_path": "references/benchmark/27VWC_change_detection_wrong_program.sexp",
+      "public_sha256": "a1d0424ed33bf6ba763f067c70de1e3e59e5ef0b8a82f4587d73bcb765d67a6b",
+      "transformed": false,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/execution_evidence/reference_sources/sources/autumnbench_public/programs/7WWW9.sexp",
+      "source_sha256": "5c8190b9dbc6a9cdc0683eb699d55a4d675ac08f659bd9cca1cc66623cadd374",
+      "public_path": "references/benchmark/7WWW9.sexp",
+      "public_sha256": "5c8190b9dbc6a9cdc0683eb699d55a4d675ac08f659bd9cca1cc66623cadd374",
+      "transformed": false,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/execution_evidence/reference_sources/sources/autumnbench_public/programs/7WWW9_change_detection_wrong_program.sexp",
+      "source_sha256": "ee7b59c7f1c33f9a65b629deb1087d51904d8ea78d45fd4d6f9d6c6089a22635",
+      "public_path": "references/benchmark/7WWW9_change_detection_wrong_program.sexp",
+      "public_sha256": "ee7b59c7f1c33f9a65b629deb1087d51904d8ea78d45fd4d6f9d6c6089a22635",
+      "transformed": false,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/execution_evidence/reference_sources/sources/MARAProtocol_source/protocols/mara_environment.proto",
+      "source_sha256": "ae027f0cf913b64e41b8368db2b33eb4beb5345334873306c65310b31980d5b4",
+      "public_path": "references/mara/mara_environment.proto",
+      "public_sha256": "ae027f0cf913b64e41b8368db2b33eb4beb5345334873306c65310b31980d5b4",
+      "transformed": false,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/execution_evidence/reference_sources/sources/MARAProtocol_source/protocols/mara_environment_service.proto",
+      "source_sha256": "bfc766b33e7deec3e7ac915ccc77c161176238620ec0627af85fefe612a212ce",
+      "public_path": "references/mara/mara_environment_service.proto",
+      "public_sha256": "bfc766b33e7deec3e7ac915ccc77c161176238620ec0627af85fefe612a212ce",
+      "transformed": false,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/execution_evidence/reference_sources/sources/MARAProtocol_source/python_examples/autumnbench/autumnstdlib.py",
+      "source_sha256": "e50e576588502d800848589f82f1533221cf5914a807395d1c5c9f1f13058996",
+      "public_path": "references/mara/autumnstdlib.py",
+      "public_sha256": "e50e576588502d800848589f82f1533221cf5914a807395d1c5c9f1f13058996",
+      "transformed": false,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/execution_evidence/reference_sources/sources/MARAProtocol_source/python_examples/autumnbench/concrete_envs.py",
+      "source_sha256": "3cec4a2ce409867c756e0e0a8960b524ac5a251804303f33f03b09f1c795842d",
+      "public_path": "references/mara/concrete_envs.py",
+      "public_sha256": "3cec4a2ce409867c756e0e0a8960b524ac5a251804303f33f03b09f1c795842d",
+      "transformed": false,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/execution_evidence/reference_sources/sources/MARAProtocol_source/python_examples/autumnbench/env_utils.py",
+      "source_sha256": "f1af2f3960ec2cb1f060660d1298257cddee0b6464f08111bac3659266626c40",
+      "public_path": "references/mara/env_utils.py",
+      "public_sha256": "f1af2f3960ec2cb1f060660d1298257cddee0b6464f08111bac3659266626c40",
+      "transformed": false,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/execution_evidence/reference_sources/sources/MARAProtocol_source/python_examples/autumnbench/environment_interfaces.py",
+      "source_sha256": "e48386cd3f1137192e03841189f9ab40593a6a1ac5c1c8dbfe2374bf885c1433",
+      "public_path": "references/mara/environment_interfaces.py",
+      "public_sha256": "e48386cd3f1137192e03841189f9ab40593a6a1ac5c1c8dbfe2374bf885c1433",
+      "transformed": false,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/execution_evidence/reference_sources/sources/MARAProtocol_source/python_examples/autumnbench/evaluation_controller.py",
+      "source_sha256": "0f190dfb340d747a8ab27c6653adef5a7b40436bd251908356be7daaa7640efd",
+      "public_path": "references/mara/evaluation_controller.py",
+      "public_sha256": "0f190dfb340d747a8ab27c6653adef5a7b40436bd251908356be7daaa7640efd",
+      "transformed": false,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/execution_evidence/reference_sources/sources/MARAProtocol_source/python_examples/autumnbench/prompts.py",
+      "source_sha256": "b9a2444c93c76603c20402410805e043265de80e09418f6db953617dd605afb5",
+      "public_path": "references/mara/prompts.py",
+      "public_sha256": "b9a2444c93c76603c20402410805e043265de80e09418f6db953617dd605afb5",
+      "transformed": false,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/execution_evidence/reference_sources/sources/MARAProtocol_source/python_examples/autumnbench/simple_wm_agent.py",
+      "source_sha256": "09977fc73e24e83f54206c80e9c7828442b3fcc0e1665425f4bfaf39c7dfea58",
+      "public_path": "references/mara/simple_wm_agent.py",
+      "public_sha256": "09977fc73e24e83f54206c80e9c7828442b3fcc0e1665425f4bfaf39c7dfea58",
+      "transformed": false,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/execution_evidence/results/extension_results.json",
+      "source_sha256": "9be01b7db9a5afb0ea4f33b2f0992bcf3d11e88bf27dd0df433bf7de0aff112f",
+      "public_path": "execution_evidence/results/extension_results.json.gz",
+      "public_sha256": "417b1eca959cde53df372a84aea56cf229d0f546e9705f65cd4747b3a11bc399",
+      "transformed": true,
+      "compression": "gzip"
+    },
+    {
+      "source_id": "autumn/execution_evidence/results/primary_results.json",
+      "source_sha256": "48702d50dc38130ebcd4df18875e2e0a1251586debafc464bdba0eae82396914",
+      "public_path": "execution_evidence/results/primary_results.json.gz",
+      "public_sha256": "a95405d8cf8e61ac23fc21b4624d0c0b62cc729af8215f67b28a1a6bca3a326f",
+      "transformed": true,
+      "compression": "gzip"
+    },
+    {
+      "source_id": "autumn/execution_evidence/results/support_results.json",
+      "source_sha256": "6ac2c0e2d58802d52df9d45c5f6130c382f2a7a500422c5073ff4b5e2297ff3a",
+      "public_path": "execution_evidence/results/support_results.json.gz",
+      "public_sha256": "c3f6a5bac48a89ffcbe36d889197ec81f9277341435f2f1b3fa74ea574fc37ce",
+      "transformed": true,
+      "compression": "gzip"
+    },
+    {
+      "source_id": "autumn/execution_evidence/scripts/bounded_runner.py",
+      "source_sha256": "6582e8fbbe2f1be27737c6d21e123aa5ea212b4f9cfbfff8f3230d3de2a047b2",
+      "public_path": "execution_evidence/scripts/bounded_runner.py",
+      "public_sha256": "7ea9e9651c7e4e23a65e3255059cc00513771ff4190ea38f431edc4ac2b37410",
+      "transformed": true,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/execution_evidence/scripts/bounded_support_runner.py",
+      "source_sha256": "8a83b2eb9bc4533bd14904777ae85bc0284e01ee705802daf41f2c39a5cdba7b",
+      "public_path": "execution_evidence/scripts/bounded_support_runner.py",
+      "public_sha256": "e6e5328bf7facc73f5440ceac50dc412900bedbf4288a8b39863a5f426af9a45",
+      "transformed": true,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/execution_evidence/scripts/run_probe.py",
+      "source_sha256": "0f56377de9ac16f77ebed255994df8456db9a303b6406e2b57b47c39735d6792",
+      "public_path": "execution_evidence/scripts/run_probe.py",
+      "public_sha256": "c17bac08780a1fff232a0863d52f8fadd2987997e6d820f3f0184481203f7c39",
+      "transformed": true,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/execution_evidence/scripts/run_support_probe.py",
+      "source_sha256": "641ee16654b44195eaaf23dda85d23bcb19216c25f8d4caa4b353d65ee2c7faa",
+      "public_path": "execution_evidence/scripts/run_support_probe.py",
+      "public_sha256": "d8b3095c43f1ae34a3e1e9588f60940adfb0bfb058cb3655d76ea834d8b78dab",
+      "transformed": true,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/figures/CAPTION.md",
+      "source_sha256": "1e0f2624e55963a9fb829e90863ba6bc098053c7c921e9e6b674ad11631a4ab0",
+      "public_path": "figures/CAPTION.md",
+      "public_sha256": "1e0f2624e55963a9fb829e90863ba6bc098053c7c921e9e6b674ad11631a4ab0",
+      "transformed": false,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/figures/plot_provenance.json",
+      "source_sha256": "a347916c9a5baf071c411372399518e7a928ece543663b5cc47509084c46c99c",
+      "public_path": "figures/plot_provenance.json.gz",
+      "public_sha256": "67597fb86a56d7aa07cf3b45616dace091223b6687315a18e0969f91ab4eebdf",
+      "transformed": true,
+      "compression": "gzip"
+    },
+    {
+      "source_id": "autumn/figures/score_answer_and_browsing.png",
+      "source_sha256": "3cd8cc3074962590e8e4f9069bfc7a4f496d46e3b8a0f62132eb7dbcc1226080",
+      "public_path": "figures/score_answer_and_browsing.png",
+      "public_sha256": "3cd8cc3074962590e8e4f9069bfc7a4f496d46e3b8a0f62132eb7dbcc1226080",
+      "transformed": false,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/figures/score_answer_and_browsing.svg",
+      "source_sha256": "fad4aa15899353126806ef5fed9880dad6cf8595319378835fdb81f98faba13e",
+      "public_path": "figures/score_answer_and_browsing.svg",
+      "public_sha256": "fad4aa15899353126806ef5fed9880dad6cf8595319378835fdb81f98faba13e",
+      "transformed": false,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/ANALYSIS_SUMMARY.json",
+      "source_sha256": "12e5b8f6d331f9c1208d087f99bf9db64569ad1d029b7f64cc95445f74ba72ed",
+      "public_path": "ANALYSIS_SUMMARY.json.gz",
+      "public_sha256": "8fbff7c6b7ac54bb190d7ecc65b6b3322cf3c56defc77a5fecb9af675e07201b",
+      "transformed": true,
+      "compression": "gzip"
+    },
+    {
+      "source_id": "autumn/SCENARIO_RESULTS.json",
+      "source_sha256": "8fc6337edc027f4b0c37a1950804f153f0379669026d3a5c17169229321dbee7",
+      "public_path": "SCENARIO_RESULTS.json.gz",
+      "public_sha256": "b917e3e5f1abcf042eef1e080b5f36fa0ec290ff3419f99138a9ad84509661c9",
+      "transformed": true,
+      "compression": "gzip"
+    },
+    {
+      "source_id": "autumn/PREREGISTRATION.json",
+      "source_sha256": "85708fd9d052627923400f2f5599d9eddfdaf1f70423b68cf7dbd303f7d9a6db",
+      "public_path": "PREREGISTRATION.json.gz",
+      "public_sha256": "92d7c59fa07d3d886fb67b9435fa7804fc089f33bb6750fc355074c5e4873e08",
+      "transformed": true,
+      "compression": "gzip"
+    },
+    {
+      "source_id": "autumn/SUPPORT_EXTENSION_PLAN.json",
+      "source_sha256": "4b4fe0e67139bea3048592a5364880049edf4e5b28eba19f5dbc4fb42fccf671",
+      "public_path": "SUPPORT_EXTENSION_PLAN.json.gz",
+      "public_sha256": "db4f0bc8ca9e5dab5255c70a8fa97f7ce9190a6c6625744f946b911e715973d9",
+      "transformed": true,
+      "compression": "gzip"
+    },
+    {
+      "source_id": "autumn/scripts/analyze_results.py",
+      "source_sha256": "522d19d6085feb2dead68383a7279381a6ac1142ad5c32737e41a9603f3f58f6",
+      "public_path": "scripts/analyze_results.py",
+      "public_sha256": "7efc4e1b926580570e14e861c848100e022a09334d936ea7d06d9ccd95af1f35",
+      "transformed": true,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/scripts/run_probe.py",
+      "source_sha256": "0f56377de9ac16f77ebed255994df8456db9a303b6406e2b57b47c39735d6792",
+      "public_path": "scripts/run_probe.py",
+      "public_sha256": "c17bac08780a1fff232a0863d52f8fadd2987997e6d820f3f0184481203f7c39",
+      "transformed": true,
+      "compression": null
+    },
+    {
+      "source_id": "autumn/scripts/run_support_probe.py",
+      "source_sha256": "47097249050b9cfc32c5aa45288189f0d81131720654ec25e636656ada6438a1",
+      "public_path": "scripts/run_support_probe.py",
+      "public_sha256": "1285c4da03234027e6b88fddc9bf503434bf2449584f5ffea43ed8935a0be2a4",
+      "transformed": true,
+      "compression": null
+    }
+  ],
+  "portability_notes": "Paths are redacted, selected JSON/JSONL gzip-packed, external checkpoint variables configurable, and public/archive integrity checks separated. Algorithms and recorded outcomes are unchanged."
+}
